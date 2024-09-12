@@ -2,16 +2,16 @@ Nodejs Full-stack Todo App
 
 
 Description
-This repository contains a straightforward full-stack todo application built with Node.js, Express.js, EJS template engine, and MongoDB. It serves as an educational resource, particularly for teaching on Udemy, offering a practical example of building a CRUD application with a backend API and a frontend interface.
-
+This repository contains a straightforward full-stack todo application built with Node.js, Express.js, EJS template engine, and MongoDB. 
 
 Table of Contents
 Installation
 Usage
 Features
-License
 Installation
-Install MongoDb Database
+Install MongoDb Database 
+
+when you clone then stablish your database connection
 
 
 
